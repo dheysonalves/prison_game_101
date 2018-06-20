@@ -8,7 +8,11 @@ Projeto feito na Unity com o MonoDevelop para o curso Learn to Code by Making Ga
 ### Sinopse
 
   "Apanhado pelos traidores e condenado à morte, o professor Knox Makepeace espera sem lembranças. No fundo de sua cela, ele pensa: fugir é sua única esperança. Angústia e medo assumem. "
-		
+  
+### Código   
+
+O projeto foi feito com a Unity 2017 utilizando a IDE monodevelop na linguagem C#. Foi a conclusão do 3° módulo do curso utilizando de métodos simples com uma interface gráfica desenvolvida na Unity.
+O arquivo do código está em assets/TextController.cs
     
 ## English
 
@@ -21,4 +25,9 @@ Project made at Unity with MonoDevelop for the course Learn to Code for Making G
 ### Synopsis
 
   "Trapped by the traitors and sentenced to death, Professor Knox Makepeace waits without memories. At the back of his cell, he thinks: running away is his only hope.
+  
+### Code
+
+The project was done with Unity 2017 using the monodevelop IDE in the C # language. It was the conclusion of the 3rd module of the course using simple methods with a graphical interface developed at Unity.
+The code file is in assets / TextController.cs
 	
