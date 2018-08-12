@@ -12,7 +12,7 @@ Projeto feito na Unity com o MonoDevelop para o curso Learn to Code by Making Ga
 ### Código   
 
 O projeto foi feito com a Unity 2017 utilizando a IDE monodevelop na linguagem C#. Foi a conclusão do 3° módulo do curso utilizando de métodos simples com uma interface gráfica desenvolvida na Unity.
-O arquivo do código está em assets/TextController.cs
+O arquivo do código está [aqui](https://github.com/Dheyson/prison_game_101/blob/master/Assets/TextController.cs)
     
 ## English
 
@@ -29,5 +29,5 @@ Project made at Unity with MonoDevelop for the course Learn to Code for Making G
 ### Code
 
 The project was done with Unity 2017 using the monodevelop IDE in the C # language. It was the conclusion of the 3rd module of the course using simple methods with a graphical interface developed at Unity.
-The code file is in assets / TextController.cs
+The code file is [here](https://github.com/Dheyson/prison_game_101/blob/master/Assets/TextController.cs)
 	
